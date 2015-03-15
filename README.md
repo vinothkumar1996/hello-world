@@ -1,2 +1,6 @@
 # hello-world
 I born to do something great
+
+Hi friends....
+I'm a beginner in cse field....
+if possible help me plz..
